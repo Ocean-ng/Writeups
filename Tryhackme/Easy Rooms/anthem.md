@@ -1,0 +1,4 @@
+- use gobuster or dirsearch that you will find password and login page
+- flag in source code
+- use remmina to rce windows
+- can read admin file by providing permission for everyone (properties)

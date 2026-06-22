@@ -1,0 +1,5 @@
+- use "admin' or 1=1#" to login
+- upload .phtml file to rce
+- use "/usr/bin/script -qc /bin/bash /dev/null" to upgrade ur shell 
+- find mike backup file -> user flag 
+- find rootkit.sh file so you can go to https://gtfobins.org/gtfobins/nano/ and fix terminal "export TERM=xterm" -> root flag

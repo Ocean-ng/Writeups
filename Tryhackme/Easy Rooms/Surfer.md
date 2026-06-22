@@ -1,0 +1,2 @@
+- try to use default admin:admin 
+- read source code that find url get to local ip then change url -> flag

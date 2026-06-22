@@ -1,0 +1,6 @@
+- use wpscan to enumarate and bruteforce
+- upload php file to rce
+- use this command: "/usr/bin/script -qc /bin/bash /dev/null" upgrade ur shell
+- check database to find password that you can su c0ldd -> user flag
+- when u change to c0ldd user, press "sudo -l" then u see 3 options to root
+- with me I use vim to root "sudo vim -c ':!/bin/bash'" -> root flag
