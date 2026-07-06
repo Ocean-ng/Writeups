@@ -1,4 +1,4 @@
-<img width="1217" height="1100" alt="image" src="https://github.com/user-attachments/assets/74f95fd4-71a5-4e95-a1a9-4d7541f10e43" />mình sẽ vào vai điều tra 1 vụ án mạng "nghe hay nhể", mình sẽ được giao cho 1 cái điện thoại Android để đào sâu vào chứng cứ
+mình sẽ vào vai điều tra 1 vụ án mạng "nghe hay nhể", mình sẽ được giao cho 1 cái điện thoại Android để đào sâu vào chứng cứ
 
 dùng ALEAPP để trích xuất ra 1 file để dễ dàng truy vấn 
 
