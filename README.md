@@ -1,1 +1,1 @@
-writeups that review knowledge for myself and for whom reading this ^^
+Write-ups that review knowledge for me and for whom reading this ^^
