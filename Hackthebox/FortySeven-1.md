@@ -24,41 +24,41 @@
 
 7. 40
 
-<img width="1238" height="993" alt="image" src="https://github.com/user-attachments/assets/2f548052-215b-47ac-9cac-6389d3b26f9d" />
+<img width="1209" height="180" alt="image" src="https://github.com/user-attachments/assets/f30383c4-96ed-423f-a7e6-4cb84f2808af" />
 
 8. MalwareTech_Hidden
 
-<img width="1209" height="180" alt="image" src="https://github.com/user-attachments/assets/f30383c4-96ed-423f-a7e6-4cb84f2808af" />
-
-9. T1547.001
 
 <img width="1181" height="140" alt="image" src="https://github.com/user-attachments/assets/3ed2db31-9f22-4909-9a30-30dcd024fbfb" />
 
-10. Stom Exfiltrator
+9. T1547.001
+
+
 
 <img width="1822" height="872" alt="image" src="https://github.com/user-attachments/assets/4a34c8da-8eaa-458e-a70e-f0a442ecc698" />
+10. Stom Exfiltrator
 
-11. T1059.001
 
 <img width="1240" height="503" alt="image" src="https://github.com/user-attachments/assets/8b7a71eb-1ffc-4121-b26d-c1e24c3fea14" />
+11. T1059.001
 
-12. Vtyrei
 
 <img width="1837" height="897" alt="image" src="https://github.com/user-attachments/assets/c5fa6484-f81a-4d08-8781-d218850d3e5a" />
+12. Vtyrei
 
-13. CVE-2023-38831
 
 <img width="1208" height="131" alt="image" src="https://github.com/user-attachments/assets/c2a76492-6891-4a4e-a2c7-dcc4ec73e22d" />
+13. CVE-2023-38831
 
-14. 9e50adb6107067ff0bab73307f5499b6
  
 <img width="1242" height="834" alt="Screenshot 2026-07-20 002408" src="https://github.com/user-attachments/assets/a821ef63-6246-4e67-b820-b286ef9a403a" />
+14. 9e50adb6107067ff0bab73307f5499b6
 
-15. T1041
 
 <img width="718" height="103" alt="Screenshot 2026-07-20 003457" src="https://github.com/user-attachments/assets/b683e6d7-51b9-433e-adfa-cf0f44478f86" />
+15. T1041
 
-
+<img width="1833" height="879" alt="image" src="https://github.com/user-attachments/assets/ee2da701-8b6d-4ddf-bb4f-e748d7f3d76a" />
 
 
 
