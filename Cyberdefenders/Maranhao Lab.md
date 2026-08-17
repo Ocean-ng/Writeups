@@ -1,5 +1,7 @@
 ## kịch bản: một game thủ đã tải mod của một game sinh tồn nổi tiếng về (mình đoán là minecraft), háo hức để chơi nên là khởi động file cài đặt ngay lập tức. Sau đó là các thông tin của game thủ này được gửi đến địa chỉ ip và tên miền lạ
 
+https://cyberdefenders.org/blueteam-ctf-challenges/maranhao/
+
 Q1: để tìm được url cuối mà game thủ này đã tải thì mình sẽ vào Users -> Levin -> AppData -> Microsoft -> Edge -> Default ->History
 
 <img width="2559" height="320" alt="image" src="https://github.com/user-attachments/assets/29f56453-2cda-4888-ba31-d9d66a62d562" />
