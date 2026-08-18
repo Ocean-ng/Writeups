@@ -1,5 +1,7 @@
 ## kịch bản: héc cơ dùng powershell để tấn công hệ thống
 
+https://cyberdefenders.org/blueteam-ctf-challenges/volatility-traces/
+
 Q1: đầu tiên là dùng plugin pslist để xuất ra danh sách process hoạt động tại thời điểm nhất định -> mình tìm được PPID 4596 của powershell.exe (do PPID bị ẩn nên đành dùng plugin khác) -> dùng psscan để quét PPID tìm được -> dùng cmdline để liệt kê ra các lệnh được dùng khi tìm được tên của PPID
 
 <img width="1926" height="34" alt="image" src="https://github.com/user-attachments/assets/95975297-0b7f-4198-95c7-cb0f9a41723f" />
