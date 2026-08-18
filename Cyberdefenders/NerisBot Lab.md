@@ -1,5 +1,7 @@
 ## kịch bản: có héc cơ lỏ đang tấn công mạng trường học, hắn dùng C2 để điều khiển và giao tiếp
 
+https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/
+
 Q1: thèn héc cơ nì gửi request tới với file mã độc cho nạn nhân nè
 
 <img width="2559" height="387" alt="image" src="https://github.com/user-attachments/assets/bbeeba77-427c-4ce9-bb47-91159d6e635c" />
